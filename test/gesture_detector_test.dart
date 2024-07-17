@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
-import 'package:flutter_slidable/src/controller.dart';
-import 'package:flutter_slidable/src/gesture_detector.dart';
+import 'package:flutter_slidable_plus/src/controller.dart';
+import 'package:flutter_slidable_plus/src/gesture_detector.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 

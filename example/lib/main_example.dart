@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_slidable/flutter_slidable.dart';
+import 'package:flutter_slidable_plus/flutter_slidable.dart';
 
 import 'common.dart';
 
@@ -10,12 +10,12 @@ void main() {
 const actions = [
   SlideAction(
     color: Color(0xFFFE4A49),
-    icon: Icons.delete,
+    icon: Icon(Icons.delete),
     label: 'Delete',
   ),
   SlideAction(
     color: Color(0xFF21B7CA),
-    icon: Icons.share,
+    icon: Icon(Icons.share),
     label: 'Share',
   ),
 ];
@@ -207,7 +207,7 @@ class SlideAction extends StatelessWidget {
   }) : super(key: key);
 
   final Color color;
-  final IconData icon;
+  final Widget icon;
   final int flex;
   final String label;
 

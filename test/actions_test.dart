@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_slidable/src/actions.dart';
+import 'package:flutter_slidable_plus/src/actions.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
@@ -80,7 +80,7 @@ void main() {
             children: [
               SlidableAction(
                 onPressed: (_) => logs.add('pressed'),
-                icon: Icons.ac_unit,
+                icon: const Icon(Icons.ac_unit),
               )
             ],
           ),
@@ -99,7 +99,7 @@ void main() {
             children: [
               SlidableAction(
                 onPressed: (_) => logs.add('pressed'),
-                icon: Icons.ac_unit,
+                icon: const Icon(Icons.ac_unit),
                 label: 'my_label',
               )
             ],

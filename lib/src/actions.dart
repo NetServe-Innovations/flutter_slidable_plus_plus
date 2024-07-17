@@ -159,8 +159,8 @@ class SlidableAction extends StatelessWidget {
   /// {@macro slidable.actions.onPressed}
   final SlidableActionCallback? onPressed;
 
-  /// An icon to display above the [label].
-  final IconData? icon;
+  /// An widget to display above the [label].
+  final Widget? icon;
 
   /// The space between [icon] and [label] if both set.
   ///
@@ -182,7 +182,7 @@ class SlidableAction extends StatelessWidget {
 
     if (icon != null) {
       children.add(
-        Icon(icon),
+        icon!,
       );
     }
 

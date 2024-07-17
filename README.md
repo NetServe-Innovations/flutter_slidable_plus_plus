@@ -51,7 +51,7 @@ dependencies:
 In your library add the following import:
 
 ```dart
-import 'package:flutter_slidable/flutter_slidable.dart';
+import 'package:flutter_slidable_plus/flutter_slidable.dart';
 ```
 
 ## Getting started
