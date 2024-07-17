@@ -1,3 +1,13 @@
+## 0.1.0 (flutter_slidable_plus)
+
+### Added
+* Custom Widget instead of IconData
+* Added Label Style
+
+-----
+
+# Original Project Changelog
+
 ## 3.1.1
 
 ### Fixed
