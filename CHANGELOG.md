@@ -1,4 +1,4 @@
-## 0.1.0 (flutter_slidable_plus)
+## 0.1.0 (flutter_slidable_plus_plus)
 
 ### Added
 * Custom Widget instead of IconData

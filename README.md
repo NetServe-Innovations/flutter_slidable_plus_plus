@@ -1,8 +1,12 @@
+> ⚠️ Forked from `flutter_slidable_plus`
+
+-----
+
 > ⚠️ This repository is a fork of the [original project](https://github.com/letsar/flutter_slidable) ([hash](https://github.com/letsar/flutter_slidable/commit/304330028117f6bff90bcda472fbd297258e0cb3)), where I implemented long-forgotten open PRs that the community had been awaiting for a long time. This is not a drop-in replacement as it introduces small breaking changes, but they are very easy to address.
 
 -----
 
-# flutter_slidable_plus
+# flutter_slidable_plus_plus
 
 A Flutter implementation of slidable list item with directional slide actions that can be dismissed.
 
@@ -26,13 +30,13 @@ In the `pubspec.yaml` of your flutter project, add the following dependency:
 
 ```yaml
 dependencies:
-  flutter_slidable_plus: <latest_version>
+  flutter_slidable_plus_plus: <latest_version>
 ```
 
 In your library add the following import:
 
 ```dart
-import 'package:flutter_slidable_plus/flutter_slidable_plus.dart';
+import 'package:flutter_slidable_plus_plus/flutter_slidable_plus_plus.dart';
 ```
 
 ## Getting started
@@ -165,7 +169,7 @@ If you find a bug or want a feature, but don't know how to fix/implement it, ple
 If you fixed a bug or implemented a feature, please send a [pull request][pr].
 
 <!-- Links -->
-[behind_motion]: https://raw.githubusercontent.com/vicenterusso/flutter_slidable_plus/assets/behind_motion.gif
-[drawer_motion]: https://raw.githubusercontent.com/vicenterusso/flutter_slidable_plus/assets/drawer_motion.gif
-[scroll_motion]: https://raw.githubusercontent.com/vicenterusso/flutter_slidable_plus/assets/scroll_motion.gif
-[stretch_motion]: https://raw.githubusercontent.com/vicenterusso/flutter_slidable_plus/assets/stretch_motion.gif
+[behind_motion]: https://raw.githubusercontent.com/vicenterusso/flutter_slidable_plus_plus/assets/behind_motion.gif
+[drawer_motion]: https://raw.githubusercontent.com/vicenterusso/flutter_slidable_plus_plus/assets/drawer_motion.gif
+[scroll_motion]: https://raw.githubusercontent.com/vicenterusso/flutter_slidable_plus_plus/assets/scroll_motion.gif
+[stretch_motion]: https://raw.githubusercontent.com/vicenterusso/flutter_slidable_plus_plus/assets/stretch_motion.gif

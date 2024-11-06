@@ -1,4 +1,4 @@
-import 'package:flutter_slidable_plus/src/controller.dart';
+import 'package:flutter_slidable_plus_plus/src/controller.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

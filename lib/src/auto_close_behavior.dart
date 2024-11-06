@@ -1,7 +1,7 @@
 import 'package:flutter/scheduler.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_slidable_plus/src/controller.dart';
-import 'package:flutter_slidable_plus/src/notifications.dart';
+import 'package:flutter_slidable_plus_plus/src/controller.dart';
+import 'package:flutter_slidable_plus_plus/src/notifications.dart';
 
 /// A widget that forces the [Slidable] widgets below it to close when another
 /// [Slidable] widget with the same [groupTag] opens.

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_slidable_plus/flutter_slidable_plus.dart';
+import 'package:flutter_slidable_plus_plus/flutter_slidable_plus_plus.dart';
 
 import 'common.dart';
 

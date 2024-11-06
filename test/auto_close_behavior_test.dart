@@ -1,8 +1,8 @@
 import 'package:collection/collection.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_slidable_plus/src/auto_close_behavior.dart';
-import 'package:flutter_slidable_plus/src/controller.dart';
-import 'package:flutter_slidable_plus/src/notifications.dart';
+import 'package:flutter_slidable_plus_plus/src/auto_close_behavior.dart';
+import 'package:flutter_slidable_plus_plus/src/controller.dart';
+import 'package:flutter_slidable_plus_plus/src/notifications.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 

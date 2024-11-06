@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_slidable_plus/src/action_pane_motions.dart';
-import 'package:flutter_slidable_plus/src/actions.dart';
-import 'package:flutter_slidable_plus/src/slidable.dart';
+import 'package:flutter_slidable_plus_plus/src/action_pane_motions.dart';
+import 'package:flutter_slidable_plus_plus/src/actions.dart';
+import 'package:flutter_slidable_plus_plus/src/slidable.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
